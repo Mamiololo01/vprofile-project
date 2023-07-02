@@ -84,4 +84,11 @@ Cat .kube/config to see the Minikube config file
   View the kubectl configuration:kubectl config view
 
 
+<img width="1276" alt="Screenshot 2023-07-02 at 23 16 24" src="https://github.com/stacksimplify/docker-fundamentals/assets/67044030/8247a44f-8787-443b-8794-3bc916a31d7f">
+
+<img width="1279" alt="Screenshot 2023-07-02 at 23 17 00" src="https://github.com/stacksimplify/docker-fundamentals/assets/67044030/5277f65a-054c-4b2c-9cf8-85f82160c9f2">
+
+<img width="1280" alt="Screenshot 2023-07-02 at 23 17 47" src="https://github.com/stacksimplify/docker-fundamentals/assets/67044030/ca1b0bfa-e48d-46fe-8453-55098424f675">
+
+
 
