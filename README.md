@@ -1,5 +1,5 @@
 
-#CONTAINERISED APPLICATION
+CONTAINERISED APPLICATION
 
 Test it via local and cloud using Kubernetes
 
